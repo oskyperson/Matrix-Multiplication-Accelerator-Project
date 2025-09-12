@@ -2,7 +2,7 @@
 
 This is 100% gonna work out 😊
 
-[alt text](https://github.com/oskyperson/Matrix-Multiplication-Accelerator-Project/blob/main/bleh.png?raw=true)
+![pic](./bleh.png)
 
 TODO: 
   Add Multiple Macs to Block Diagram
