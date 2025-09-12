@@ -2,6 +2,7 @@
 
 This is 100% gonna work out 😊
 
+Current Block Diagram:
 ![pic](./bleh.png)
 
 TODO: 
