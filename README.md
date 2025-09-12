@@ -2,6 +2,8 @@
 
 This is 100% gonna work out 😊
 
+[alt text](https://github.com/oskyperson/Matrix-Multiplication-Accelerator-Project/blob/main/image(1)?raw=true)
+
 TODO: 
   Add Multiple Macs to Block Diagram
   RTL
