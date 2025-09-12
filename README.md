@@ -3,7 +3,7 @@
 This is 100% gonna work out 😊
 
 Current Block Diagram:
-![pic](./bleh.png)
+![pic](./block_diagram.png)
 
 TODO: 
   Add Multiple Macs to Block Diagram
